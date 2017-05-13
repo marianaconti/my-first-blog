@@ -1,0 +1,3 @@
+C:\Users\usuario\Documents\Mariana\Djangogirls
+
+C:\Program Files (x86)\MapInfo\Professional\UT\Python\
